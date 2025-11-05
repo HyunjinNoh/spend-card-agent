@@ -1,0 +1,4 @@
+# requirements.txt
+
+# 크롤링
+selenium==4.15.2
