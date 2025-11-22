@@ -1,4 +1,6 @@
 /.venv/
 /data_collection/
 /data/
+/database/
 /.idea/
+/.env
