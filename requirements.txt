@@ -1,5 +1,11 @@
-# requirements.txt
-
 # 크롤링
 selenium==4.15.2
 pandas==2.3.3
+
+# Agent 구현
+langgraph==0.2.28
+langchain==0.3.7
+langchain-openai==0.2.8
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+PyYAML>=6.0
